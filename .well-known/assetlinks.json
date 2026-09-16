@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.kalkulatorbinaan.pro",
-    "sha256_cert_fingerprints": ["MASUKKAN_KOD_SHA256_ANDA_DI_SINI"]
+    "package_name": "com.example.sukat",
+    "sha256_cert_fingerprints": ["SHA-256: AA:BB:CC:DD:EE:FF:11:22:33:44:55:66:77:88:99:00:AA:BB:CC:DD:EE:FF:11:22:33:44:55:66:77:88:99:00"]
   }
 }]
