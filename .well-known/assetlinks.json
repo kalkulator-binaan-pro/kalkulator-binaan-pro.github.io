@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.example.sukat",
-    "sha256_cert_fingerprints": ["SHA-256: AA:BB:CC:DD:EE:FF:11:22:33:44:55:66:77:88:99:00:AA:BB:CC:DD:EE:FF:11:22:33:44:55:66:77:88:99:00"]
+    "sha256_cert_fingerprints": ["49:1B:E0:EF:07:D2:92:EC:4A:B5:3E:51:E5:D3:84:99:F0:7F:A8:28:EA:61:6D:4C:D1:96:E0:42:6A:15:CC:E2"]
   }
 }]
